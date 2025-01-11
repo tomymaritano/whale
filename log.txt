@@ -211,3 +211,4 @@
 2025-01-10 - Implemented a new algorithm 🧠
 2025-01-10 - Refactored old functions 🔄
 2025-01-10 - Fixed a minor bug 🐛
+2025-01-11 - Fixed a minor bug 🐛
