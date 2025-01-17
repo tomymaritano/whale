@@ -42,3 +42,4 @@
 2025-01-14 - Fixed a minor bug 🐛
 2025-01-15 - Implemented a new algorithm 🧠
 2025-01-16 - Fixed a minor bug 🐛
+2025-01-17 - Refactored old functions 🔄
