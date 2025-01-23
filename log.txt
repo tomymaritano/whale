@@ -242,3 +242,4 @@
 2025-01-21 - Refactored old functions 🔄
 2025-01-22 - Refactored old functions 🔄
 2025-01-22 - Implemented a new algorithm 🧠
+2025-01-22 - Added unit tests ✅
