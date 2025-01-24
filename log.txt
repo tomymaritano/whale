@@ -73,3 +73,4 @@
 2025-01-23 - Fixed a minor bug 🐛
 2025-01-24 - Updated documentation 📖
 2025-01-24 - Updated documentation 📖
+2025-01-24 - Implemented a new algorithm 🧠
