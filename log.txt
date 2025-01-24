@@ -74,3 +74,4 @@
 2025-01-24 - Updated documentation 📖
 2025-01-24 - Updated documentation 📖
 2025-01-24 - Implemented a new algorithm 🧠
+2025-01-24 - Refactored code for better performance 🚀
