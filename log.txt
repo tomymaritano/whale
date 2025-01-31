@@ -277,3 +277,4 @@
 2025-01-30 - Updated documentation 📖
 2025-01-30 - Refactored code for better performance 🚀
 2025-01-30 - Fixed a minor bug 🐛
+2025-01-31 - Refactored old functions 🔄
