@@ -282,3 +282,4 @@
 2025-02-01 - Added new feature 🎉
 2025-02-01 - Added new feature 🎉
 2025-02-01 - Updated documentation 📖
+2025-02-01 - Added unit tests ✅
