@@ -297,3 +297,4 @@
 2025-02-05 - Fixed a minor bug 🐛
 2025-02-05 - Fixed a minor bug 🐛
 2025-02-06 - Updated documentation 📖
+2025-02-06 - Refactored code for better performance 🚀
