@@ -307,3 +307,4 @@
 2025-02-08 - Improved logging system 📊
 2025-02-08 - Added new feature 🎉
 2025-02-09 - Refactored old functions 🔄
+2025-02-09 - Fixed a minor bug 🐛
