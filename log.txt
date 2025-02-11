@@ -134,3 +134,4 @@
 2025-02-10 - Updated documentation 📖
 2025-02-10 - Improved logging system 📊
 2025-02-10 - Fixed a minor bug 🐛
+2025-02-11 - Updated documentation 📖
