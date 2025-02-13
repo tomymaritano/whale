@@ -323,3 +323,4 @@
 2025-02-13 - Added new feature 🎉
 2025-02-13 - Updated documentation 📖
 2025-02-13 - Added new feature 🎉
+2025-02-13 - Refactored code for better performance 🚀
