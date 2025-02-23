@@ -167,3 +167,4 @@
 2025-02-22 - Added unit tests ✅
 2025-02-22 - Fixed a minor bug 🐛
 2025-02-22 - Fixed a minor bug 🐛
+2025-02-23 - Refactored old functions 🔄
