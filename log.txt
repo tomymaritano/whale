@@ -357,3 +357,4 @@
 2025-02-25 - Refactored old functions 🔄
 2025-02-25 - Improved logging system 📊
 2025-02-25 - Improved logging system 📊
+2025-02-26 - Fixed a minor bug 🐛
