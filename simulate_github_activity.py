@@ -3,13 +3,14 @@ import subprocess
 import random
 import datetime
 
-# Configurar el repositorio
-REPO_DIR = "whale"  # Cambia esto si el nombre de la carpeta local es diferente
-if not os.path.exists(REPO_DIR):
-    print(f"❌ Error: No se encontró el directorio '{REPO_DIR}'. Clona tu repo primero.")
+# Verificar si estamos en un repositorio Git
+if not os.path.exists(".git"):
+    print("❌ Error: Este directorio no es un repositorio Git. Asegúrate de ejecutarlo dentro del repo.")
     exit(1)
 
-os.chdir(REPO_DIR)  # Moverse al directorio del repositorio
+# Obtener la ruta actual
+repo_path = os.getcwd()
+print(f"📂 Working directory: {repo_path}")
 
 # Fecha de inicio (1 de enero de 2025)
 start_date = datetime.date(2025, 1, 1)
